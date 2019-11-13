@@ -1,0 +1,53 @@
+body
+{
+    background-color: rgb(255, 211, 172);
+}
+h1 
+{
+    color: saddlebrown; text-align: center; font-size: 300%;
+} 
+
+article.menu
+{
+    text-align: left; display: inline;
+}
+
+article.cafe
+
+{
+    text-align:center ; display: inline; 
+}
+article.contact
+
+{
+    text-align: right; display: inline;
+}
+
+*.colorb
+
+{
+    color: saddlebrown;
+}
+
+footer
+
+{
+   text-align: center;
+}
+
+table 
+{
+    width: 100%; text-align: left;
+}
+
+th
+
+{
+    background-color: blanchedalmond;
+}
+
+p.zen
+
+{
+    font-weight: bold; text-align: center;
+}
